@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #input word for the text
-text = input("What do you want to print? --> ")
+text = input("What word do you want to print? --> ")
 space = " "
 
 #fixed width in characters
